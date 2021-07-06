@@ -101,3 +101,14 @@ A continuación, se presenta una serie de pasos para usar el proyecto.
 
 ![title](images/11-image.png)
 
+### TERCERA PARTE:
+
+A continuación, se presenta el diagrama de componentes de la solución y el diagrama de secuencia del flujo principal.
+
+#### 01-DIAGRAMA DE COMPONENTES DE LA SOLUCIÓN:
+
+![title](diagramas/01-diagrama-componentes.png)
+
+#### 02-DIAGRAMA DE SECUENCIA DEL FLUJO PRINCIPAL:
+
+![title](diagramas/02-diagrama-secuencia.png)
