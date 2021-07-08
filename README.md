@@ -99,7 +99,7 @@ A continuación, se presenta una serie de pasos para usar el proyecto.
 
 #### Consulta SELECT  a la tabla TBL_PHONE:
 
-![title](images/11-image.png)
+![title](images/12-image.png)
 
 ### TERCERA PARTE:
 
